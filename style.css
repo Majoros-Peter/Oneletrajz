@@ -1,5 +1,6 @@
 h1
 {
+    font-family: Arial, Helvetica, sans-serif;
     text-align:center;
 }
 
@@ -16,10 +17,6 @@ h1
 
 body
 {
-    background-color: blanchedalmond;
-}
-
-body
-{
-    border-radius: 20px;
+    background-image:url(Images\\background.png);
+    background-size: 100% auto;
 }
